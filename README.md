@@ -19,7 +19,7 @@ Run the program:
 
 `python GetNumberLicensePlate_Ollama.py`
 
-Ollama's responses and the evaluation of whether the query was successful will appear in the console. The images are named with the corresponding number. car license plate number they contain.
+Ollama's responses and the evaluation of whether the query was successful will appear in the console. The images are named with the corresponding number car license plate.
 
 Observations:
 
